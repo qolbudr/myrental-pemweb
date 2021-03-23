@@ -1,3 +1,6 @@
 # MyRental
 
-Dibuat untuk memenuhi tugas pemrograman web Universitas Negeri Surabaya
+Dibuat untuk memenuhi tugas pemrograman web
+
+Preview
+http://myrental.expectron.tech
